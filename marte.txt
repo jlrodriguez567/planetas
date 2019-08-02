@@ -1,1 +1,2 @@
 hola editor nano 
+el ejemplo de edicion
