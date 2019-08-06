@@ -1,4 +1,2 @@
 hola editor nano 
-el ejemplo de edicion
-este es otro ejemplito
-holita sip
+es un ejemplo de edicion
