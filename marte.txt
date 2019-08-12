@@ -3,3 +3,4 @@ es un ejemplo de edicion
 es un ejemplo 
 from github
 esto fue editado desde el segundo reposito si
+try merge
