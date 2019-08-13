@@ -3,4 +3,8 @@ es un ejemplo de edicion
 es un ejemplo 
 from github
 esto fue editado desde el segundo reposito si
+<<<<<<< HEAD
 un cambio del second repositorio marge
+=======
+try merge
+>>>>>>> b9a17e28cb80ddba764d973c3f0f61c21f740ace
